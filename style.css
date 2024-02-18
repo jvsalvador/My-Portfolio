@@ -444,6 +444,8 @@ header .navbar ul li a:hover{
 
 .contact .form-container form{
     display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
     flex-direction: column;
     margin-right: 7.5rem;
 }
