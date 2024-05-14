@@ -36,7 +36,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-    background-image: url(img/background.png);
+    background-image: url('img/background.png');
     background-size: cover;
     overflow-x: hidden;
     padding-left: 35rem;
@@ -85,7 +85,7 @@ header{
     z-index: 1000;
     height: 100%;
     width: 35rem;
-    background-image: url(img/nav-background.jpg);
+    background-image: url('img/nav-background.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
